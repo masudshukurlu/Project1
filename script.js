@@ -1,1 +1,0 @@
-window.alert("hello my dear friend")
